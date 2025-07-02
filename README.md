@@ -24,3 +24,9 @@ clipboard-logger-installer.sh  # Run the installer
 # Note:
 Keyboard content will cleared after restarting the PC
 
+# Contact
+Bhuvnesh Brawar
+
+bbrawar@gmail.com <br>
+bbrawar.github.io
+
