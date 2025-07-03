@@ -9,6 +9,7 @@ cd clipboard-logger
 chmod +x install.sh
 ./install.sh
 ```
+<!---
 Or
 
 Install ```deb```:
@@ -17,6 +18,8 @@ Install ```deb```:
 sudo dpkg -i clipboard-logger.deb
 clipboard-logger-installer.sh  # Run the installer
 ```
+
+--->
 # To get copied content use following shorcut:
 
 <kbd>Ctrl</kbd> + <kbd>Alt</kbd> + <kbd>C</kbd>
